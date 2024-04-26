@@ -1,1 +1,2 @@
-//// isaac bravo is.bravo@duocuc.cl
+# isaac bravo is.bravo@duocuc.cl
+# conflicto resuelto!!!
